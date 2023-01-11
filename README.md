@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/></a>
 
 ### Code Editor
 <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=visual studio code&logoColor=white"/></a>
