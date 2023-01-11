@@ -2,7 +2,7 @@
 
 # Judy 🌸
 ### Who Am I
-- 🌱 I’m currently learning FrontEnd development
+- 🌱 I’m currently learning React, TypeScript
 - 🥇 I majored in Electronics
 - 🚅 My hometown is Seoul in Korea
 
