@@ -11,7 +11,7 @@
 - 🔧 Korea Future Energy, H/W Development Team (2021.06~2022.06)
 - 💻 Busan IT Academy, BlockChain and Fintech(Java/React) (2022.06~2022.12)
 
-[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judyy22&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judyy22&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judyy22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
