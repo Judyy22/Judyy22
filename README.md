@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61dafB?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=jsp&logoColor=white"/></a>
