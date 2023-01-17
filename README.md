@@ -13,7 +13,7 @@
 
 # ⏲️ Work Stats 
 <!--START_SECTION:waka-->
-![Judy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Judyy22)
+
 <!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
