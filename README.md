@@ -10,10 +10,15 @@
 - 🎓 Dong-A University , Electronics
 - 🔧 Korea Future Energy, H/W Development Team (2021.06~2022.06)
 - 💻 Busan IT Academy, BlockChain and Fintech(Java/React) (2022.06~2022.12)
-#
-![Judyy's GitHub stats](https://github-readme-stats-seven-gilt-67.vercel.app/api?username=judyy22&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats-seven-gilt-67.vercel.app/api/top-langs/?username=Judyy22&layout=compact)
 
+# ⏲️ Work Stats 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+#### 🛠️ Github Stats
+![Judy's GitHub stats](https://github-readme-stats-seven-gilt-67.vercel.app/api?username=judyy22&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats-seven-gilt-67.vercel.app/api/top-langs/?username=Judyy22&layout=compact)
 
 # 💻Skills💻
 ### Platforms & Languages
